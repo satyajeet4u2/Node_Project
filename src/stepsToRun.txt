@@ -1,0 +1,6 @@
+step-1. go to this path
+C:\Users\kumars10\Desktop\Technology\Online e commerce website\BackendWebPortalAngularNode>
+
+step-2
+npm run dev
+

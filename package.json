@@ -1,0 +1,27 @@
+{
+  "name": "BackendWebPortalAngularNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.16",
+    "request": "^2.88.0",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
